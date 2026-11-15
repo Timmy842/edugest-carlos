@@ -7,6 +7,7 @@
 | Entrega | Fichero | Estado |
 |---|---|---|
 | EduGest-1 · Informe de análisis (UD01) | [edugest/docs/01-analisis.md](edugest/docs/01-analisis.md) | Entregado |
+| EduGest-2 · Modelo conceptual E/R (UD02) | [edugest/docs/02-modelo-er.md](edugest/docs/02-modelo-er.md) · [diagrama](edugest/docs/02-modelo-er.drawio) | Entregado |
 
 
 ## Estructura
@@ -15,7 +16,11 @@
 edugest-carlos/
 ├── README.md
 └── edugest/
-    └── 01-analisis.md
+    └── docs/
+        ├── 01-analisis.md
+        ├── 02-modelo-er.md
+        ├── 02-modelo-er.drawio
+        └── 02-modelo-er.png
 ```
 
 ## Fuentes y herramientas
