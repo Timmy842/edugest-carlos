@@ -12,7 +12,7 @@
 ## Estructura
 
 ```text
-bbdd-carlos/
+edugest-carlos/
 ├── README.md
 └── edugest/
     └── 01-analisis.md
